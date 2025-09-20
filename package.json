@@ -1,0 +1,11 @@
+{
+  "name": "tailwind-server-hang-example",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tailwindcss -i ./styles.css -o ./out/compiled.css"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.13",
+    "tailwindcss": "^4.1.13"
+  }
+}
